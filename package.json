@@ -1,0 +1,19 @@
+{
+  "name": "com.vitalgames.vital-audio",
+  "version": "1.0.0",
+  "displayName": "Vital Audio",
+  "description": "This package contains an audio engine for use within unity",
+  "unity": "2019.4",
+  "unityRelease": "10f1",
+  "keywords": [
+    "audio",
+    "framework",
+    "scriptable objects",
+    "audio"
+  ],
+  "author": {
+    "name": "Rafael Vital",
+    "email": "rvitall.alves@gmail.com",
+    "url": ""
+  }
+}
